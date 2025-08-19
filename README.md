@@ -1,6 +1,8 @@
 # telecomX2
 Challenge Telecom X Alura Latam Segunda Parte
 
+1. Objetivo: Predecir el churn (cancelación) de clientes en base a variables relevantes.
+
 Diccionario de datos:
 
 * customerID: número de identificación único de cada cliente
