@@ -3,7 +3,7 @@ Challenge Telecom X Alura Latam Segunda Parte
 
 Diccionario de datos:
 
-customerID: número de identificación único de cada cliente
+* customerID: número de identificación único de cada cliente
 Churn: si el cliente dejó o no la empresa
 gender: género (masculino y femenino)
 SeniorCitizen: información sobre si un cliente tiene o no una edad igual o mayor a 65 años
